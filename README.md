@@ -4,3 +4,7 @@
 * https://onecompiler.com/java/
 * https://www.tutorialspoint.com/online_java_compiler.php
 * https://www.jdoodle.com/online-java-compiler/
+
+IDE для локальной работы (под вашу ответственность)
+* https://www.jetbrains.com/idea/download (Community Version)
+* https://code.visualstudio.com/
