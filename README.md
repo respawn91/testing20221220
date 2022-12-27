@@ -8,3 +8,6 @@
 IDE для локальной работы (под вашу ответственность)
 * https://www.jetbrains.com/idea/download (Community Version)
 * https://code.visualstudio.com/
+
+Ввод-вывод данных:
+https://www.youtube.com/watch?v=eufHwWQWy8E
