@@ -1,5 +1,10 @@
 # testing20221220
 
+Изучение Java
+* JavaRush: https://javarush.com/
+* Metanit: https://metanit.com/java/tutorial/
+* Stepik: https://stepik.org/course/187/promo
+
 Программы для написания кода
 * https://onecompiler.com/java/
 * https://www.tutorialspoint.com/online_java_compiler.php
