@@ -1,5 +1,7 @@
 # testing20221220
 
+Чат для решения задач: https://t.me/+lQowBqApW-A5Mjk6
+
 Изучение Java
 * JavaRush: https://javarush.com/
 * Metanit: https://metanit.com/java/tutorial/
