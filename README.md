@@ -19,3 +19,6 @@ IDE для локальной работы (под вашу ответствен
 
 Ввод-вывод данных:
 https://www.youtube.com/watch?v=eufHwWQWy8E
+
+Примеры ООП:
+* https://codeboard.io/projects/368924 - HR-проект (Persom, Employee, и т.д.)
