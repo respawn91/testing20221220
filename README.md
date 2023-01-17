@@ -11,6 +11,7 @@
 * https://onecompiler.com/java/
 * https://www.tutorialspoint.com/online_java_compiler.php
 * https://www.jdoodle.com/online-java-compiler/
+* https://codeboard.io/ - для задач по ООП
 
 IDE для локальной работы (под вашу ответственность)
 * https://www.jetbrains.com/idea/download (Community Version)
