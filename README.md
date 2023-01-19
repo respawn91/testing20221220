@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=eufHwWQWy8E
 Примеры ООП:
 * https://codeboard.io/projects/368924 - HR-проект (Persom, Employee, и т.д.)
 * https://codeboard.io/projects/369364 - Кошки и собаки
+* https://codeboard.io/projects/369388 - Треугольники и их сравнение
 
 Где тренироваться:
 * https://leetcode.com/
