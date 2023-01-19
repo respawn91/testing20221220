@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=eufHwWQWy8E
 * https://codeboard.io/projects/368924 - HR-проект (Persom, Employee, и т.д.)
 * https://codeboard.io/projects/369364 - Кошки и собаки
 * https://codeboard.io/projects/369388 - Треугольники и их сравнение
+* https://codeboard.io/projects/369400 - Статичные переменные
 
 Где тренироваться:
 * https://leetcode.com/
