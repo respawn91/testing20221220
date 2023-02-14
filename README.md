@@ -29,3 +29,10 @@ https://www.youtube.com/watch?v=eufHwWQWy8E
 Где тренироваться:
 * https://leetcode.com/
 * https://www.codewars.com/
+
+AGILE:
+* https://www.atlassian.com/ru/agile/manifesto - Цикл статей
+* https://www.ozon.ru/product/agile-life-kak-vyvesti-zhizn-na-novuyu-orbitu-ispolzuya-metody-agile-planirovaniya-neyrofiziologiyu-231026320
+* https://www.chitai-gorod.ru/product/agile-v-seme-200-smelyh-i-svezhih-idey-2737220
+* https://www.ozon.ru/product/chistyy-agile-osnovy-gibkosti-martin-robert-211424638
+* https://www.ozon.ru/product/agile-testirovanie-obuchayushchiy-kurs-dlya-vsey-komandy-267303800
