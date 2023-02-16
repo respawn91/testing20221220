@@ -36,3 +36,11 @@ AGILE:
 * https://www.chitai-gorod.ru/product/agile-v-seme-200-smelyh-i-svezhih-idey-2737220
 * https://www.ozon.ru/product/chistyy-agile-osnovy-gibkosti-martin-robert-211424638
 * https://www.ozon.ru/product/agile-testirovanie-obuchayushchiy-kurs-dlya-vsey-komandy-267303800
+* https://hr-academy.ru/hrarticle/agile-transformatsiya-v-sberbanke.html - хорошая статья про AGILE-трансформацию
+* https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf - скрам-гайд на русском языке
+* https://www.ozon.ru/product/kanban-metod-uluchshenie-sistemy-upravleniya-barrouz-mayk-231026803
+
+Kanban:
+* https://www.notion.so/
+* https://trello.com/
+* https://kaiten.ru/
