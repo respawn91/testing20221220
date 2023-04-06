@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <title>Лекция №25</title>
+
+    <body>
+        <p> Всем привет из Казани! </p>
+    </body>
+
+    <h1>Текст №1</h1>
+    <h2>Текст №2</h2>
+    <h3>Текст №3</h3>
+    <h4>Текст №4</h4>
+
+    <p style="color:red;"><b><i>Test</i></b></p>
+
+    <ul>
+        <li>Вставать</li>
+        <li>Пресс качать</li>
+        <li>На турник</li>
+    </ul>
+
+    <ol>
+        <li>Вставать</li>
+        <li>Пресс качать</li>
+        <li>На турник</li>
+    </ol>
+
+    <p><a href="https://www.sports.ru/">Го на спортс.ру!</a></p>
+
+    <button>Не нажимать!!!</button>
+
+    <h1>Table example</h1>
+    <table style="width: 30%;">
+    <tr>
+        <th>Model</th>
+        <th>Price</th>
+        <th>Quantity</th>
+    </tr>
+    <tr>
+        <td>iPhone 13 Pro</td>
+        <td>100000</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Pixel 7</td>
+        <td>120000</td>
+        <td>5</td>
+    </tr>
+    </table>
+
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Немножко JS</title>
+    <script>
+        function testFunction() {
+            document.getElementById("test").innerHTML = "Аргентина!";
+        }
+    </script>
+    </head>
+
+    <body>
+    <h2>Кто выиграл последний Чемпионат Мира по футболу?</h2>
+
+    <button onclick="testFunction()">Узнать ответ!</button>
+    <p id = test></p>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <title>Какой сейчас год?</title>
+
+    <p>Текущий год:</p>
+    <p id = "year"></p>
+
+    <p>Текущая дата:</p>
+    <p id = "current_date"></p>
+
+    <script>
+        var d = new Date();
+        document.getElementById("year").innerHTML = d.getFullYear();
+        document.getElementById("current_date").innerHTML = d.getDate();
+    </script>
+
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <title>Ай-яй-яй</title>
+
+    <p>Не нажимай на кнопку!!!</p>
+    <input type='button' value = 'Не нажимай' onclick='showAlert()'>
+
+    <script>
+        function showAlert() {
+            alert('Сказали же не нажимать!!!')
+        }
+    </script>
+
+</html>
+
