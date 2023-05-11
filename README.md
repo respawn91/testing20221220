@@ -44,3 +44,8 @@ Kanban:
 * https://www.notion.so/
 * https://trello.com/
 * https://kaiten.ru/
+
+SQL:
+* Для ностальгирующих https://www.sql-ex.ru/
+* Для всех, но не сразу https://sql-academy.org/ru
+* Лучшее решение, однозначно рекомендую! https://stepik.org/course/63054/promo
