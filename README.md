@@ -49,3 +49,7 @@ SQL:
 * Для ностальгирующих https://www.sql-ex.ru/
 * Для всех, но не сразу https://sql-academy.org/ru
 * Лучшее решение, однозначно рекомендую! https://stepik.org/course/63054/promo
+
+Работа с Git:
+* https://learngitbranching.js.org/?locale=ru_RU (для всех)
+* https://githowto.com/ru (для тех, кто хочет локально)
